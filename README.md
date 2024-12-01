@@ -35,9 +35,13 @@ This will cause those repos to show up with 0 lines added in quick mode.
 
 ## Trivia
 
-Created entirely with DeepSeek R1, with the goal of no manual code editing. 21 prompt spins over 28 minutes of wall clock time.
+  - Created entirely with DeepSeek R1, with the goal of no manual code editing.
 
-Needed to edit 12 lines of code manually, as instruction following was inconsistent for commands like "output complete working code for the entire file with these changes, including copying parts you didn't change"; adding dark mode and making it apply to tables took as much time as all other features.
+  - 21 prompt spins over 28 minutes of wall clock time.
+
+  - Needed to edit 12 lines of code manually. Instruction following was inconsistent for commands like "output complete working code for the entire file with these changes, including copying parts you didn't change"
+
+  - Adding dark mode and making it apply to tables took as much time as all other features. This was the only part that required a manual edit.
 
 ## Status
 

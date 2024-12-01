@@ -20,9 +20,9 @@ A fast interactive dashboard with leaderboards across all repos of multiple gith
 
   - Totally unnecessary dark mode.
 
-## Example screenshots
+## Screenshots
 
-Shown as style samples. Full interface is much more complete.
+Shown for style. Full interface is more complete.
 
 <img width="1455" alt="Screenshot 2024-12-01 at 1 35 33 PM" src="https://github.com/user-attachments/assets/d0650f4e-d8aa-4891-978a-0c1e188c7d90">
 <img width="1237" alt="Screenshot 2024-12-01 at 1 36 50 PM" src="https://github.com/user-attachments/assets/a1f5e8fb-6659-4237-b971-b277a4d8ec5a">

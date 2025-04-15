@@ -635,7 +635,7 @@ def run_dashboard(contributors_df, repos_df, contributions):
             data_style, header_style,
         )
 
-    app.run_server(debug=True)
+    app.run(debug=True)
 
 def parse_and_save(contrib_file, output_contrib, output_repos, fetch_slow_data=False):
     contributions = load_contributions_data(contrib_file)
